@@ -1,7 +1,5 @@
 {
-  "name": "$name$",
-  "version": "$version$",
-  "dependencies": {
-    $END$
-  }
+  "name": "BackEndDevelopmentAndAPIs",
+  "version": "1.0.0",
+  "author": "hollerith47"
 }
